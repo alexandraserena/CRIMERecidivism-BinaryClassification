@@ -1,3 +1,6 @@
+I built an end-to-end pipeline to find the best model capable of predicting the recidivism of criminal offenders after two years from their previous charge; I performed configuration, with Sampling, Dimensionality Reduction and four different models, I combined all possible configurations and then performed Stratified K-Fold cross-validation to find the best one.
+The best-performing model appeared to be GradientBoosting, with an accuracy of approximately 71%.
+
 The dataset contains 7214 criminal defendants from Broward County, Florida, and numerous information from which I selected the most important and relevant to predict recidivism of offence.
 
 I selected the following features:
