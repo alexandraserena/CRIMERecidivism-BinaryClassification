@@ -15,3 +15,6 @@ I selected the following __features__:
 - The goal is to predict whether criminal defendants have committed again a crime after two years from the previous offence, therefore the task that has to be performed is a binary classification.
 
 Source of the dataset: https://www.kaggle.com/datasets/danofer/compass
+
+
+<img width="1600" height="600" alt="Copia di Testo del paragrafo" src="https://github.com/user-attachments/assets/88da10a4-65e3-459d-a5ca-385ced9e0087" />
